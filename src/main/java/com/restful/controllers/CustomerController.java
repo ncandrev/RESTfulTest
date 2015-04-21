@@ -29,4 +29,8 @@ public class CustomerController {
 	public @ResponseBody ArrayList<CustomerJSON> getAllCustomers() {
 		return customers;
 	}
+	
+	private void testMethod() {
+		System.out.println("This is a test method");
+	}
 }
