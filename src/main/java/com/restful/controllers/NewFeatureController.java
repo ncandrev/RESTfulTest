@@ -9,10 +9,10 @@ package com.restful.controllers;
 public class NewFeatureController {
 
 	private void newFeature() {
-		
+		System.out.println("This is a new feature");
 	}
 	
 	private void newFeature2() {
-		
+		System.out.println("This is a new feature 2");
 	}
 }
