@@ -10,4 +10,8 @@ public class NewController2 {
 	public void testMethod2() {
 		System.out.println("NewController2.testMethod2");
 	}
+	
+	public void testMethod3() {
+		System.out.println("NewController2.testMethod2");
+	}
 }
