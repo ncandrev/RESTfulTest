@@ -37,4 +37,7 @@ public class CustomerController {
 	private void testMethod2() {
 		System.out.println("this is a test method 2.");
 	}
+	private void testMethod3() {
+		System.out.println("this is a test method 2.");
+	}
 }
