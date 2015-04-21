@@ -11,4 +11,8 @@ public class NewFeatureController {
 	private void newFeature() {
 		
 	}
+	
+	private void newFeature2() {
+		
+	}
 }
