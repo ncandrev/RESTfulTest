@@ -8,6 +8,6 @@ public class NewController2 {
 	}
 	
 	public void testMethod2() {
-		
+		System.out.println("NewController2.testMethod2");
 	}
 }
