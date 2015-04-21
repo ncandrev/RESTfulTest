@@ -9,10 +9,10 @@ package com.restful.controllers;
 public class NewFeatureController {
 
 	private void newFeature() {
-		
+		System.out.println("This should cause a conflict!");
 	}
 	
 	private void newFeature2() {
-		
+		System.out.println("This should cause a conflict!");
 	}
 }
